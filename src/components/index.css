@@ -1,0 +1,15 @@
+.appBar {
+    /* display: block; */
+    position: fixed;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+
+.login {
+    border: 2px solid '#FF5C5C';
+    border-radius: 15px;
+    box-shadow: 1px 2px 15px;
+    width: 50%;
+}

@@ -1,0 +1,9 @@
+.contentGridBox {
+    /* border: 1px solid; */
+    margin: 0.55rem;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 90%;
+    background-color: rgba(255, 255, 255, 0.74);
+}
